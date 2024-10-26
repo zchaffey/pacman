@@ -4,7 +4,7 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE: Pacman Game
+PROJECT TITLE: Pacman Game and Space Invaders
 PURPOSE OF PROJECT: Create a working Pacman Game
 VERSION or DATE: 15.0
 HOW TO START THIS PROJECT:
