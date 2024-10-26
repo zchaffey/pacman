@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=EdibleObjects
+comment1.params=xx\ yy
+comment1.target=EdibleObjects(int,\ int)
+comment2.params=
+comment2.target=boolean\ getEaten()
+comment3.params=e
+comment3.target=void\ setEaten(boolean)
+comment4.params=
+comment4.target=void\ EatIt()
+numComments=5

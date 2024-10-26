@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Pacman4
+comment1.params=xx\ yy
+comment1.target=Pacman4(int,\ int)
+comment10.params=
+comment10.target=int\ getScore()
+comment2.params=xx\ yy
+comment2.target=void\ setLocation(int,\ int)
+comment3.params=
+comment3.target=void\ setspeed()
+comment4.params=
+comment4.target=int\ getLives()
+comment5.params=
+comment5.target=void\ pacDied()
+comment6.params=d
+comment6.target=void\ checkNewDirection(java.lang.String)
+comment7.params=gb
+comment7.target=void\ movePacMan(GameBorder)
+comment8.params=xx\ yy
+comment8.target=void\ setPacManloc(int,\ int)
+comment9.params=amt
+comment9.target=void\ addScore(int)
+numComments=11

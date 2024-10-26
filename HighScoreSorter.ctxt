@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=HighScoreSorter
+comment1.params=
+comment1.target=HighScoreSorter()
+comment2.params=highscores\ newhighscore\ name\ f1\ icon
+comment2.target=HighScore[]\ HighScoreS(HighScore[],\ int,\ java.lang.String,\ javax.swing.JFrame,\ javax.swing.ImageIcon)
+numComments=3

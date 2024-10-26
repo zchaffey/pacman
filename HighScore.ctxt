@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HighScore
+comment1.params=n\ hs
+comment1.target=HighScore(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getHighScore()
+comment4.params=
+comment4.target=java.lang.String\ getDisplayInfo()
+comment5.params=
+comment5.target=java.lang.String\ gethighscorename()
+numComments=6
